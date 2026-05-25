@@ -1,0 +1,11 @@
+# 研究資料庫（單獨的 My-TW-Coverage 專案，不要部署進儀表板 repo）
+My-TW/
+
+# OS / 編輯器
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+*.bak
+*.tmp
+*~
